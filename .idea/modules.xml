@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" filepath="$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternStudy.iml" filepath="$PROJECT_DIR$/DesignPatternStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" />
     </modules>
   </component>
 </project>
