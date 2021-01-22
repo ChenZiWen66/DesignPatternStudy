@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" filepath="$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge Pattern/Bridge Pattern.iml" filepath="$PROJECT_DIR$/Bridge Pattern/Bridge Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder Pattern/Builder Pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/Builder Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternStudy.iml" filepath="$PROJECT_DIR$/DesignPatternStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" />
