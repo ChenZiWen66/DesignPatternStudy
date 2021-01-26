@@ -1,11 +1,11 @@
 package com.czw.order;
 
-import com.czw.chef.FishChef;
+import com.czw.chef.Chef;
 
 public class FishOrder implements Order{
-    private FishChef fishChef;
+    private Chef fishChef;
 
-    public FishOrder(FishChef fishChef) {
+    public FishOrder(Chef fishChef) {
         this.fishChef = fishChef;
     }
 

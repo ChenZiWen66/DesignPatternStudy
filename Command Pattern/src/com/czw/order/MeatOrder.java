@@ -1,11 +1,11 @@
 package com.czw.order;
 
-import com.czw.chef.MeatChef;
+import com.czw.chef.Chef;
 
 public class MeatOrder implements Order {
-    private MeatChef meatChef;
+    private Chef meatChef;
 
-    public MeatOrder(MeatChef meatChef) {
+    public MeatOrder(Chef meatChef) {
         this.meatChef = meatChef;
     }
 

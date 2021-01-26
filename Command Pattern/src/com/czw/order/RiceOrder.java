@@ -1,11 +1,11 @@
 package com.czw.order;
 
-import com.czw.chef.RiceChef;
+import com.czw.chef.Chef;
 
 public class RiceOrder implements Order {
-    private RiceChef riceChef;
+    private Chef riceChef;
 
-    public RiceOrder(RiceChef riceChef) {
+    public RiceOrder(Chef riceChef) {
         this.riceChef = riceChef;
     }
 
