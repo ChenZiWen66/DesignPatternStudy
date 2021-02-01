@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Prototype Pattern/Prototype Pattern.iml" filepath="$PROJECT_DIR$/Prototype Pattern/Prototype Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State Pattern/State Pattern.iml" filepath="$PROJECT_DIR$/State Pattern/State Pattern.iml" />
     </modules>
   </component>
 </project>
