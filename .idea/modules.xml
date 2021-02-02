@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Iterator Pattern/Iterator Pattern.iml" filepath="$PROJECT_DIR$/Iterator Pattern/Iterator Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mediator Pattern/Mediator Pattern.iml" filepath="$PROJECT_DIR$/Mediator Pattern/Mediator Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Memento Pattern/Memento Pattern.iml" filepath="$PROJECT_DIR$/Memento Pattern/Memento Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Model-View-Controller/Model-View-Controller.iml" filepath="$PROJECT_DIR$/Model-View-Controller/Model-View-Controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/Null Object Pattern/Null Object Pattern.iml" filepath="$PROJECT_DIR$/Null Object Pattern/Null Object Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype Pattern/Prototype Pattern.iml" filepath="$PROJECT_DIR$/Prototype Pattern/Prototype Pattern.iml" />
