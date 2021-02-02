@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/State Pattern/State Pattern.iml" filepath="$PROJECT_DIR$/State Pattern/State Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" />
     </modules>
   </component>
 </project>
