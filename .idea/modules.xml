@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Command Pattern/Command Pattern.iml" filepath="$PROJECT_DIR$/Command Pattern/Command Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite Entity Pattern/Composite Entity Pattern.iml" filepath="$PROJECT_DIR$/Composite Entity Pattern/Composite Entity Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite Pattern/Composite Pattern.iml" filepath="$PROJECT_DIR$/Composite Pattern/Composite Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Access Object Pattern/Data Access Object Pattern.iml" filepath="$PROJECT_DIR$/Data Access Object Pattern/Data Access Object Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" filepath="$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternStudy.iml" filepath="$PROJECT_DIR$/DesignPatternStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" filepath="$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" />
