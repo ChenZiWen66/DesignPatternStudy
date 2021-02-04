@@ -5,14 +5,14 @@ public class Main {
         Service service1 = ServiceLocator.getService("service1");
         service1.execute();
         Service service2 = ServiceLocator.getService("service1");
-        service1.execute();
+        service2.execute();
         Service service3 = ServiceLocator.getService("service1");
-        service1.execute();
+        service3.execute();
         Service service4 = ServiceLocator.getService("service2");
-        service1.execute();
+        service4.execute();
         Service service5 = ServiceLocator.getService("service2");
-        service1.execute();
+        service5.execute();
         Service service6 = ServiceLocator.getService("service2");
-        service1.execute();
+        service6.execute();
     }
 }
