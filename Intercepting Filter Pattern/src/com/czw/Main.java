@@ -8,6 +8,8 @@ public class Main {
 
         Client client = new Client();
         client.setFilterManager(filterManager);
+
         client.sendRequest("czw.com");
+        client.sendRequest("jbh.com");
     }
 }
